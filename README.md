@@ -11,6 +11,8 @@ SydJS app is built with Cordova and is open source.
 - iOS App PSD (with layer comps. Requires Photoshop CC or later)
 - Edge Animate composition
 
+If you're new to Edge Animate or wondering what do to with the Animate composition, I [published a tutorial here.](https://medium.com/@borisbozic/prototyping-ui-animation-2fe08e3a7932)
+
 
 ### The Gist
 I made the case that interaction design (specifically motion design) is a core part of the user experience, especially on mobile, and that skipping it is both unacceptable and unnecessary. UI designers should design and prototype with interactive motion, and that developers should expect this from the designers that they work with.
