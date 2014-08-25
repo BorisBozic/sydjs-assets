@@ -30,6 +30,7 @@ I demonstrated briefly how I used Adobe's Edge Animate to setup the wireframe of
 - [Creating a PhoneGap Build app with Edge Animate] (http://www.lynda.com/Edge-Animate-tutorials/Creating-PhoneGap-Build-app-Edge-Animate/124307/127570-4.html)
 
 ### Recommended reading / watching 
+- [Prototyping UI Animation](https://medium.com/@borisbozic/prototyping-ui-animation-2fe08e3a7932) by Boris Bozic (me)
 - [Transitional interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) by Pasquale D’Silva
 - [Designing with animation (video)](http://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=c4-overview&list=UURx1y52pfeMwbuer9Vh2u-A) by Pasquale D’Silva
 - [12 basic principles of animation](http://en.wikipedia.org/wiki/12_basic_principles_of_animation)
